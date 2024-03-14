@@ -7,6 +7,11 @@
 
 ####  :wave: Welcome my github profile !
 
+<br/>
+ <br/>
+
+### Hello! I'm Jay Kee, <br/><br/> 📊 Data Science and 💻 Computer Science at Purdue University, <br/><br/> Deeply passionate about Machine Learning.
+
  <br/>
 
 ####  :clipboard: Once I've Used 
