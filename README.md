@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # <p align = "center"> Welcome to Jaihyun's GitHub <br /><br />
 
