@@ -2,6 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=I'm%20Jaihyun!)
 
+ <br/>
+ <br/>
+
+####  :wave: Welcome my github profile !
+
+
+ <br/>
+ <br/>
+
 ## <p align = "center"> 📊 GitHub Stats :chart_with_downwards_trend:<br /><br /> <img src="https://github-readme-stats.vercel.app/api?username=jaihyunkee&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
