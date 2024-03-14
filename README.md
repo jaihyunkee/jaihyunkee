@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# <p align = "center"> 💻Welcome to Jaihyun's GitHub!!💻 <br /><br />
+
 
 ## <p align = "center"> 📊 GitHub Stats :chart_with_downwards_trend:<br /><br /> <img src="https://github-readme-stats.vercel.app/api?username=OfficerChul&amp;show_icons=true" alt="GitHub Stats"></p>
 
