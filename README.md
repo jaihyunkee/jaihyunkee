@@ -2,15 +2,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=I'm%20Jaihyun!)
 
- <br/>
- <br/>
-
-####  :wave: Welcome my github profile !
-
 <br/>
  <br/>
 
-### Hello! I'm Jay Kee, <br/><br/> 📊 Data Science and 💻 Computer Science at Purdue University, <br/><br/> Deeply passionate about Machine Learning.
+
+<div align="center"> 
+
+### :wave: Hello! I'm Jay Kee, <br/><br/> 📊 Data Science and 💻 Computer Science at Purdue University, <br/><br/> Deeply passionate about Machine Learning.
+
+
+</div> 
 
  <br/>
 
