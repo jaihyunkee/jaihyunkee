@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=I'm%20Jaihyun!)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=auto&text=Welcome!)
 
 <br/>
  <br/>
